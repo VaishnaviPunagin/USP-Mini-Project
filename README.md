@@ -11,9 +11,11 @@ This is our submission for out sixth semester Unix Systems Programming mini proj
 
 ## To build and run the game
 - Just pull the file `Game.c`
-- Compile it using a gcc compiler
+- Compile it using a gcc compiler:
+
     `gcc Game.c`
 - Run the file using:
+
     `./a.out`
     
     
